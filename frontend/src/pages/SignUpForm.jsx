@@ -2,7 +2,7 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import clientServer from "../config"; 
-import "./SignupForm.css";
+import "./SignUpForm.css";
 
 const SignupForm = () => {
   const navigate = useNavigate();
